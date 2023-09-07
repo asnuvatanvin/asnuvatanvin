@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asnuvatanvin
-- 👀 I’m interested in machine learning, deep learning, image processing, bioinformatics, computational biology.
+- 👀 I’m interested in machine learning, deep learning, image processing, bioinformatics, computational biology, Data Scinece, AI in Healthcare.
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on any project that relates to computer science.
 - 📫 How to reach me :
