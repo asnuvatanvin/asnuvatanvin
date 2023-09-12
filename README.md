@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on any project that relates to computer science.
 - 📫 How to reach me :
-Linkedin : www.linkedin.com/in/asnuvatanvin-8614211a8
+Linkedin : www.linkedin.com/in/asnuvatanvin
 Email : asnuva.tanvin@gmail.com
 
 <!---
